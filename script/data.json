@@ -1,0 +1,173 @@
+{
+  "winners": [
+    {
+      "id": 1,
+      "name": "Katharine Hepburn",
+      "gender": "female",
+      "movies": [
+        {
+          "title": "Morning Glory",
+          "year": 1933,
+          "role": "main"
+        },
+        {
+          "title": "Guess Who’s Coming to Dinner?",
+          "year": 1967,
+          "role": "main"
+        },
+        {
+          "title": "The Lion in Winter",
+          "year": 1968,
+          "role": "main"
+        },
+        {
+          "title": "On Golden Pond",
+          "year": 1981,
+          "role": "main"
+        }
+      ],
+      "image": "./assets/images/01.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Daniel Day-Lewis",
+      "gender": "male",
+      "movies": [
+        {
+          "title": "My Left Foot",
+          "year": 1989,
+          "role": "main"
+        },
+        {
+          "title": "There Will Be Blood",
+          "year": 2007,
+          "role": "main"
+        },
+        {
+          "title": "Lincoln",
+          "year": 2012,
+          "role": "main"
+        }
+      ],
+      "image": "./assets/images/02.JPG"
+    },
+    {
+      "id": 3,
+      "name": "Frances McDormand",
+      "gender": "female",
+      "movies": [
+        {
+          "title": "Fargo",
+          "year": 1996,
+          "role": "main"
+        },
+        {
+          "title": "Three Billboards Outside Ebbing, Missouri",
+          "year": 2017,
+          "role": "main"
+        },
+        {
+          "title": "Nomadland",
+          "year": 2020,
+          "role": "main"
+        }
+      ],
+      "image": "./assets/images/03.JPG"
+    },
+    {
+      "id": 4,
+      "name": "Meryl Streep",
+      "gender": "female",
+      "movies": [
+        {
+          "title": "Sophie’s Choice",
+          "year": 1982,
+          "role": "main"
+        },
+        {
+          "title": "The Iron Lady",
+          "year": 2011,
+          "role": "main"
+        },
+        {
+          "title": "Kramer vs. Kramer",
+          "year": 1979,
+          "role": "support"
+        }
+      ],
+      "image": "./assets/images/04.JPG"
+    },
+    {
+      "id": 5,
+      "name": "Jack Nicholson",
+      "gender": "male",
+      "movies": [
+        {
+          "title": "One Flew Over the Cuckoo’s Nest",
+          "year": 1975,
+          "role": "main",
+          "award": "Best Actor"
+        },
+        {
+          "title": "As Good as It Gets",
+          "year": 1997,
+          "role": "main",
+          "award": "Best Actor"
+        },
+        {
+          "title": "Terms of Endearment",
+          "year": 1983,
+          "role": "support",
+          "award": "Best Supporting Actor"
+        }
+      ],
+      "image": "./assets/images/05.JPG"
+    },
+    {
+      "id": 6,
+      "name": "Ingrid Bergman",
+      "gender": "female",
+      "movies": [
+        {
+          "title": "Gaslight",
+          "year": 1944,
+          "role": "main"
+        },
+        {
+          "title": "Anastasia",
+          "year": 1956,
+          "role": "main"
+        },
+        {
+          "title": "Murder on the Orient Express",
+          "year": 1974,
+          "role": "support"
+        }
+      ],
+      "image": "./assets/images/06.JPG"
+    },
+    {
+      "id": 7,
+      "name": "Walter Brennan",
+      "gender": "male",
+      "movies": [
+        {
+          "title": "Come and Get It",
+          "year": 1936,
+          "role": "support"
+        },
+        {
+          "title": "Kentucky",
+          "year": 1938,
+          "role": "support"
+        },
+        {
+          "title": "The Westerner",
+          "year": 1940,
+          "role": "support"
+        }
+      ],
+      "image": "./assets/images/07.JPG"
+    }
+  ]
+}
